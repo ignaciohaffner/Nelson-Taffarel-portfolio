@@ -3,8 +3,8 @@ import './Navbar.css'
 
 const Navbar = () => {
   return (
-            <div>
-                <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
+            <div className='navegador'>
+                <nav className="navbar navbar-expand-lg navbar-light bg-light">
                     <div className="container-fluid">
                         <a className="navbar-brand" href="#id">Nelson Taffarel</a>
                         <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
@@ -13,6 +13,7 @@ const Navbar = () => {
                         <div className="collapse navbar-collapse show" id="navbarNavAltMarkup">
                             <div className="navbar-nav mx-auto">
                                 <a className="nav-link active" aria-current="page" href="#id">Inicio</a>
+                                <a className="nav-link active" href="#id">Biografia</a>
                                 <a className="nav-link active" href="#id">Portfolio</a>
                                 <a className="nav-link active" href="#id">Contactame</a>
                             </div>

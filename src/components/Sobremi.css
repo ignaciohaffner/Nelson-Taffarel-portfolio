@@ -2,12 +2,14 @@
   margin-top: 6%;
   margin-left: 5%;
   margin-right: 5%;
+  margin-bottom: 10%;
 }
 
 .t-sobremi {
   color: white;
   font-size: 2em;
-  text-align: center;
+  text-align: justify;
+  margin-left: 3%;
 }
 
 iframe {
@@ -15,7 +17,7 @@ iframe {
 }
 
 .foto {
-  border: 1px solid white;
+  width: 100%;
 }
 
 @media (max-width: 768px) {
@@ -29,7 +31,7 @@ iframe {
   .t-sobremi {
     color: white;
     font-size: 2em;
-    text-align: center;
+    text-align: left;
   }
 
   iframe {

@@ -1,0 +1,11 @@
+.container {
+  background-color: #f5392e;
+  border-radius: 2% 20% / 9%;
+  padding-bottom: 3%;
+}
+
+.titulo {
+  text-align: center;
+  margin: 4% 0;
+  color: white;
+}
