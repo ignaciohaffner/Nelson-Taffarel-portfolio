@@ -1,0 +1,11 @@
+/* .navbar-nav {
+  margin: 0 auto;
+} */
+
+.nav-link {
+  margin-left: 5%;
+  color: white;
+}
+.navbar {
+  width: 100%;
+}
