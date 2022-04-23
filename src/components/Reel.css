@@ -1,0 +1,20 @@
+.titulo2 {
+  margin-top: 5%;
+  font-size: 4rem;
+  color: white;
+  text-align: center;
+}
+
+.Tab {
+  color: #000;
+}
+
+.reels {
+  margin-top: 30%;
+}
+
+@media (max-width: 768px) {
+  iframe {
+    width: 85%;
+  }
+}

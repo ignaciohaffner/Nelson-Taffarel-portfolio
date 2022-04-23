@@ -1,11 +1,13 @@
 .container {
-  background-color: #f5392e;
+  /* background-color: #f5392e; */
+  background-color: transparent;
   border-radius: 2% 20% / 9%;
   padding-bottom: 3%;
 }
 
 .titulo {
   text-align: center;
-  margin: 4% 0;
+  margin: 10% 0;
   color: white;
+  font-size: 4rem;
 }

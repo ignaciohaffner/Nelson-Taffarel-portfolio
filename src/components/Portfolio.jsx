@@ -12,8 +12,8 @@ import ExpandMore from '@mui/icons-material/ExpandMore'
 const Portfolio = () => {
   return (
     <>
-        <div className="container">
-            <h2 className='titulo'>Biografia de Nelson Taffarel</h2>
+        <div className="container" id='portfolio'>
+            <h2 className='titulo'>BIOGRAFIA</h2>
             <div className='container biografia'>
                 <Accordion>
                     <AccordionSummary
@@ -32,7 +32,7 @@ const Portfolio = () => {
                     </Typography>
                     </AccordionDetails>
                 </Accordion>
-                <Accordion>
+                {/* <Accordion>
                     <AccordionSummary
                     expandIcon={<ExpandMore />}
                     aria-controls="panel2a-content"
@@ -162,7 +162,7 @@ const Portfolio = () => {
                         </ul>
                     </Typography>
                     </AccordionDetails>
-                </Accordion>
+                </Accordion> */}
             </div>
         </div>
     </>

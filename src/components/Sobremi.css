@@ -5,8 +5,20 @@
   margin-bottom: 10%;
 }
 
+h1 {
+  margin-top: 5%;
+  text-align: center;
+  font-size: 5rem;
+  color: transparent;
+  -webkit-text-stroke: 3px black;
+}
+
+#linkardo {
+  color: red;
+}
+
 .t-sobremi {
-  color: white;
+  color: black;
   font-size: 2em;
   text-align: justify;
   margin-left: 3%;
@@ -21,6 +33,14 @@ iframe {
 }
 
 @media (max-width: 768px) {
+  h1 {
+    margin-top: 5%;
+    text-align: center;
+    font-size: 4rem;
+    color: transparent;
+    -webkit-text-stroke: 3px black;
+  }
+
   .foto {
     margin: 0 auto;
     width: 100%;
@@ -30,8 +50,8 @@ iframe {
   }
   .t-sobremi {
     color: white;
-    font-size: 2em;
-    text-align: left;
+    font-size: 1.7em;
+    text-align: justify;
   }
 
   iframe {

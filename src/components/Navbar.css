@@ -4,8 +4,23 @@
 
 .nav-link {
   margin-left: 5%;
-  color: white;
+  color: #56fa47;
 }
+
+#link {
+  color: red;
+  font-weight: bold;
+}
+
+a {
+  color: red;
+}
+
+a:active {
+  color: red;
+}
+
 .navbar {
   width: 100%;
+  color: red;
 }
