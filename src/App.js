@@ -5,6 +5,7 @@ import Navbar from './components/Navbar';
 import Portfolio from './components/Portfolio';
 import Sobremi from './components/Sobremi';
 import Reel from './components/Reel';
+import Fotos from './components/Fotos';
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
       <Sobremi/>
       {/* <Portfolio/> */}
       <Reel/>
+      <Fotos></Fotos>
       <Contact/>
     </div>
   );
