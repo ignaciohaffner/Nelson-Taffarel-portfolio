@@ -85,7 +85,7 @@ const Sobremi = () => {
             <div className="col-md-2"></div>
         </div>
         <div className="container">
-          <p className='t-sobremi2'> Algunos trabajos en TV Amor mío, Conflictos en red, Sin código, Hombres de honor, Los Roldán, Alma pirata, Casi ángeles, RRDT. Humor: Casados con hijos,TyC Sports, VideoMatch(1995,96 El paparazzi 1996,97.) Imitaciones para portal Polo Line. También en teatro San Martín y el El Duende con obras como el reñidero, Woody Allen, Harold Pinter dirigidos por el Maestro Alezzo. En cortos de Telefe, Roud Muvi de Denis Smiths,Susi premiada en festival. Trabajos en publicidad para La serenísima, Arcor, Gancia, AFIP, Plusbelle, Ford, Pago Fácil. Vídeo clips de Nocheros, Pimpinela, León Gieco. Locuciones para publicidad de Pago Fácil, Ford, Agua Pub. Humor e imitaciones en Radio Palermo, Rock & Pop.</p>
+          <p className='t-sobremi2'> Algunos trabajos en TV Amor mío, Conflictos en red, Sin código, Hombres de honor, Los Roldán, Alma pirata, Casi ángeles, RRDT. Humor: Casados con hijos,TyC Sports, VideoMatch(1995,96 El paparazzi 1996,97.) Imitaciones para portal Polo Line. También en teatro San Martín y el El Duende con obras como el reñidero, Woody Allen, Harold Pinter dirigidos por el Maestro Alezzo. En cortos de Telefe, Roud Muvi de Denis Smiths,Susi premiada en festival. Trabajos en publicidad para La serenísima, Arcor, Gancia, AFIP, Plusbelle, Ford, Pago Fácil. Vídeo clips de Nocheros, Pimpinela, León Gieco. Locuciones para publicidad de Pago Fácil, Ford, Agua Pub. Humor e imitaciones en Radio Palermo, Rock & Pop. Su último trabajo en televisión en la serie Artigas como el general Rondeau</p>
         </div>
     </div>
   )
