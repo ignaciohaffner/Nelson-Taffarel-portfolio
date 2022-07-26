@@ -38,6 +38,12 @@ const Reel = () => {
             <iframe width="1000" height="562" src="https://www.youtube.com/embed/V2-pi55aP7g" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
             </div>
         </Tab>
+        <Tab eventKey="reelaudio" title="REEL AUDIO">
+            <h2 className='titulo2'>REEL AUDIO</h2>
+            <div className="container mx-auto">
+            <iframe width="1000" height="562" src="https://www.youtube.com/embed/V2-pi55aP7g" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
+            </div>
+        </Tab>
         </Tabs>
         </div>
         

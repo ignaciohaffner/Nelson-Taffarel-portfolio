@@ -4,7 +4,7 @@ import './Sobremi.css'
 const Sobremi = () => {
   return (
     <div>
-        <h1>NELSON TAFFAREL</h1>
+        <h1 className='nelson'>NELSON TAFFAREL</h1>
 
         <div className="row sobremi" id='home'>
             <div className="col-md-2"></div>
@@ -14,42 +14,52 @@ const Sobremi = () => {
     <ul class="slider-container">
         <li class="slide-visible">
             <div id="slide1">
-            <img className='foto' src="https://i.imgur.com/65zwLkJ.jpg" alt="Nelson Taffarel" />
+            <img className='foto' src="https://i.imgur.com/EihN3ZV.jpg" alt="Nelson Taffarel" />
             </div>
         </li>
         <li>
             <div id="slide2">
-            <img className='foto' src="https://i.imgur.com/kIeCfkF.jpg" alt="Nelson Taffarel" />
+            <img className='foto' src="https://i.imgur.com/bXzui7N.jpg" alt="Nelson Taffarel" />
             </div>
         </li>
         <li>
             <div id="slide3">
-              <img className='foto' src="https://i.imgur.com/KSHA5O2.jpg" alt="" />
+              <img className='foto' src="https://i.imgur.com/GONCNd9.jpg" alt="" />
             </div>
         </li>
         <li>
             <div id="slide4">
-              <img className='foto' src="https://i.imgur.com/xj8PPQ5.jpg" alt="" />
+              <img className='foto' src="https://i.imgur.com/o19KpAI.jpg" alt="" />
             </div>
         </li>
         <li>
             <div id="slide5">
-              <img className='foto' src="https://i.imgur.com/Q2ElegI.jpg" alt="" />
+              <img className='foto' src="https://i.imgur.com/yYG6J55.jpg" alt="" />
             </div>
         </li>
         <li>
             <div id="slide6">
-              <img className='foto' src="https://i.imgur.com/54Acnmy.jpg" alt="" />
+              <img className='foto' src="https://i.imgur.com/7CWAGTw.jpg" alt="" />
             </div>
         </li>
         <li>
             <div id="slide7">
-              <img className='foto' src="https://i.imgur.com/IoGcAeA.jpg" alt="" />
+              <img className='foto' src="https://i.imgur.com/qtsRpfD.jpg" alt="" />
             </div>
         </li>
         <li>
             <div id="slide8">
-              <img className='foto' src="https://i.imgur.com/KMMIdTe.jpg" alt="" />
+              <img className='foto' src="https://i.imgur.com/cNtjRSJ.jpg" alt="" />
+            </div>
+        </li>
+        <li>
+            <div id="slide9">
+              <img className='foto' src="https://i.imgur.com/XxAgPRQ.jpg" alt="" />
+            </div>
+        </li>
+        <li>
+            <div id="slide10">
+              <img className='foto' src="https://i.imgur.com/tX67wYJ.jpg" alt="" />
             </div>
         </li>
 
@@ -68,18 +78,14 @@ const Sobremi = () => {
 </div>
             </div>
             <div className="col-xl-5 col-md-8 col-lg-5 t-sobremi t">
-                <p className=''>Nelson Taffarel es un actor egresado del taller de arte dramático de Agustín Alezzo.
-También en talleres de baile y actuación como  Ana Frenkel.
-Deportista.(Equitación, Rugby, Golf, Ashtanga Yoga, etc).
-Algunos trabajos en TV  Amor mío, Conflictos en red, Sin código, Hombres de honor, Los Roldán, Alma pirata, Casi ángeles, RRDT.  Humor: Casados con hijos,TyC Sports, VideoMatch(1995,96 El paparazzi 1996,97.) Imitaciones para portal Polo Line.
-También en teatro San Martín y el El Duende con obras como el reñidero, Woody Allen, Harold Pinter dirigidos por el Maestro Alezzo.
-En cortos de Telefe, Roud Muvi de Denis Smiths,Susi premiada en festival.
-Trabajos en publicidad para La serenísima, Arcor, Gancia, AFIP, Plusbelle, Ford, Pago Fácil.
-Vídeo clips de Nocheros, Pimpinela, León Gieco.
-Locuciones para publicidad de Pago Fácil, Ford, Agua Pub.
-Humor e imitaciones en Radio Palermo, Rock & Pop.</p>
+                <p className=''>Es un actor egresado del taller de arte dramático de Agustín Alezzo.
+                También en talleres de baile y actuación como  Ana Frenkel.
+                Deportista.(Equitación, Rugby, Golf, Ashtanga Yoga, etc).</p>
             </div>
             <div className="col-md-2"></div>
+        </div>
+        <div className="container">
+          <p className='t-sobremi2'> Algunos trabajos en TV Amor mío, Conflictos en red, Sin código, Hombres de honor, Los Roldán, Alma pirata, Casi ángeles, RRDT. Humor: Casados con hijos,TyC Sports, VideoMatch(1995,96 El paparazzi 1996,97.) Imitaciones para portal Polo Line. También en teatro San Martín y el El Duende con obras como el reñidero, Woody Allen, Harold Pinter dirigidos por el Maestro Alezzo. En cortos de Telefe, Roud Muvi de Denis Smiths,Susi premiada en festival. Trabajos en publicidad para La serenísima, Arcor, Gancia, AFIP, Plusbelle, Ford, Pago Fácil. Vídeo clips de Nocheros, Pimpinela, León Gieco. Locuciones para publicidad de Pago Fácil, Ford, Agua Pub. Humor e imitaciones en Radio Palermo, Rock & Pop.</p>
         </div>
     </div>
   )
